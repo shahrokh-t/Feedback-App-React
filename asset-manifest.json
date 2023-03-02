@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Feedback-App-React/static/css/main.abe418cc.css",
-    "main.js": "/Feedback-App-React/static/js/main.0057db54.js",
-    "index.html": "/Feedback-App-React/index.html",
-    "main.abe418cc.css.map": "/Feedback-App-React/static/css/main.abe418cc.css.map",
-    "main.0057db54.js.map": "/Feedback-App-React/static/js/main.0057db54.js.map"
+    "main.css": "/feedback-app-react/static/css/main.abe418cc.css",
+    "main.js": "/feedback-app-react/static/js/main.0057db54.js",
+    "index.html": "/feedback-app-react/index.html",
+    "main.abe418cc.css.map": "/feedback-app-react/static/css/main.abe418cc.css.map",
+    "main.0057db54.js.map": "/feedback-app-react/static/js/main.0057db54.js.map"
   },
   "entrypoints": [
     "static/css/main.abe418cc.css",
