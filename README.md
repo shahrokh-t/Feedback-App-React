@@ -7,3 +7,7 @@ A React App to leave feedback for a product or service. It allows users to add, 
 ### Install dependencies
 
 npm install
+
+### Rn
+
+npm start
