@@ -12,6 +12,6 @@ This project has been done as a practice while coding along with Brad Traversy i
 
 npm install
 
-### Rn
+### Run
 
 npm start
